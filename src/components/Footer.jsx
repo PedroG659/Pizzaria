@@ -5,7 +5,7 @@ function Footer() {
     <div className="footer">
       <div className="socialMedia">
       </div>
-      <p> &copy; </p>
+      <p> &copy; Pedro G. Timoteo</p>
     </div>
   );
 }
